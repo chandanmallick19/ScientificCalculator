@@ -40,9 +40,9 @@ java Client
 4. Type "Over" to close the connection and terminate the application.
 
 ## Examples
-### To add: add 5 3
-### To calculate the square root: sqrt 25
-### To calculate the sine: sin 90
+##### To add: add 5 3
+##### To calculate the square root: sqrt 25
+##### To calculate the sine: sin 90
 
 ## Error Handling
 The calculator handles invalid input gracefully and provides detailed error messages.
