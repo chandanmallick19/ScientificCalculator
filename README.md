@@ -1,5 +1,5 @@
-###Console Scientific Calculator
-##Overview
+### Console Scientific Calculator
+## Overview
 This project is a console-based scientific calculator implemented using a client-server architecture in Java. The server performs various mathematical operations, and the client communicates with the server to perform calculations.
 
 ##Features
